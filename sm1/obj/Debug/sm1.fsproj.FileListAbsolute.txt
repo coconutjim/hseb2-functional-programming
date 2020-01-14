@@ -1,0 +1,10 @@
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\bin\Debug\sm1.exe.config
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\bin\Debug\sm1.XML
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\bin\Debug\sm1.exe
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\bin\Debug\sm1.pdb
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\bin\Debug\FSharp.Core.dll
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\bin\Debug\FSharp.Core.xml
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\obj\Debug\sm1.fsprojResolveAssemblyReference.cache
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\obj\Debug\sm1.exe
+C:\Users\Lev\Desktop\Study_Materials_2\funcprog\sem1\sm1\obj\Debug\sm1.pdb
